@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="UsuProjekt" />
         <module name="Web.deProjekt" />
+        <module name="WebDeProjeckt" />
       </profile>
     </annotationProcessing>
   </component>
